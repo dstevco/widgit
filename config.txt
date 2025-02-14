@@ -5,3 +5,4 @@ found a couple of more config values that are needed
 Test
 Test2
 Test3
+Test4
